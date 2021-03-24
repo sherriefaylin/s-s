@@ -21,7 +21,7 @@
 <img width="600px" src="readme_assets/part-1_2.gif">
 <br>
 <br>
-<h3>OPTION 1     "FIND YOUR SOULMATE"</h3>
+<h3>OPTION 1 ————— "FIND YOUR SOULMATE"</h3>
 <br>
 <img width="600px" src="readme_assets/part-2a-sm_1.gif">
 <p>if user chooses to "find your soulmate," the interface only shows other inputs that have >==2 of the same words (non-articles) in their "secret"</p>
@@ -32,9 +32,9 @@
 
 <br>
 <br>
-<h3>OPTION 2     "BE A STRANGER"</h3>
+<h3>OPTION 2 ————— "BE A STRANGER"</h3>
 <br>
-<img width="600px" src="readme_assets/part-2a-str.gif">
+<img width="600px" src="readme_assets/part-2a-str_1.gif">
 <p>if user chooses to "be a stranger," the interface only shows other inputs that have <==2 of the same words (non-articles) in their "secret"</p>
 <p>each shows up as a random colored pulsing dot, located randomly on the DOM</p>
 
