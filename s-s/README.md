@@ -1,18 +1,13 @@
-# s-s
+# soulmates + strangers
 
-> A Vue.js project
+> conceptual web design
 
-## Build Setup
+## a visual walkthru
 
-<h1>
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
-<br>
-<br>
-YOUR_PROJECT_NAME
-</h1>
 
-<p >A little description about your project</p>
+<h3>"TELL US A SECRET"</h3>
+<img width="600px" src="readme_assets/part-1_1.gif">
 
 <p>
   <a href="https://opensource.org/licenses/MIT">
