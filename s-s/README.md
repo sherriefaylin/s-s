@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-<h1 align="center">
+<h1>
 <br>
   <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
 <br>
@@ -12,9 +12,9 @@
 YOUR_PROJECT_NAME
 </h1>
 
-<p align="center">A little description about your project</p>
+<p >A little description about your project</p>
 
-<p align="center">
+<p>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
